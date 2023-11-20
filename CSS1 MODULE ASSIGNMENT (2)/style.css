@@ -1,0 +1,31 @@
+html {
+  background: url("CSS1 MODULE ASSIGNMENT/userlogin-img/background.jpg")
+    no-repeat center fixed;
+  background-size: cover;
+}
+body {
+  background-color: rgba(255, 255, 255, 0.904);
+  width: 450px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 0px;
+  border-radius: 25px;
+  border: 2px solid purple;
+}
+div {
+  background-color: purple;
+  color: white;
+  padding: 25px 50px 5px 100px;
+  width: 750px 750px;
+}
+
+button {
+  background-color: green;
+  margin: auto;
+  margin: white solid;
+  text-decoration-color: white;
+}
+
+button:hover {
+  cursor: pointer;
+}
